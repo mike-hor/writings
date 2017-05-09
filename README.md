@@ -1,11 +1,9 @@
 Writings
 -----
 
-> ✍️ Store my blog posts.
-
 This repository is [my personal blog](http://heyuhuan.tk) posts. Posts contents are written in Markdown format and located in `posts/`.
 
-这是我个人博客的文章仓库，文章都在 `posts` 文件夹下。
+文章在 `posts` 文件夹下。
 
 ## Relation
 My blog project [my-blog](https://github.com/mike-hor/vue-my-blog), which _a blog based on GitHub pages by Vue.js 2 + Webpack 2_ . 
