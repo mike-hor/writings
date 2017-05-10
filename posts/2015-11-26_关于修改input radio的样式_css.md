@@ -11,15 +11,15 @@ display:none
 
 label：befor{
 
-position:absolute;
+  position:absolute;
 
-/*点击前的样式*/
+  /*点击前的样式*/
 
 }
 
 input[type:radio]:checked + label{
 
-position:absolute;
+  position:absolute;
 
 /*点击之后的样式*/
 
