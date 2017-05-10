@@ -35,6 +35,6 @@ initData: function () {
 
 这个我和网上处理方法不同,我是自己本地在locaStronge处理的
 
-#### 事件多吃绑定问题
+#### 事件多次绑定问题
 
 只需要在mounted中绑定一次即可
