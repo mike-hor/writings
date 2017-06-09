@@ -1,12 +1,12 @@
 Writings
 -----
 
-This repository is [my personal blog](http://heyuhuan.tk) posts. Posts contents are written in Markdown format and located in `posts/`.
+This repository is [my personal blog](https://mike-hor.github.io/Mlog) posts. Posts contents are written in Markdown format and located in `posts/`.
 
 文章在 `posts` 文件夹下。
 
 ## Relation
-My blog project [my-blog](https://github.com/mike-hor/vue-my-blog), which _a blog based on GitHub pages by Vue.js 2 + Webpack 2_ . 
+My blog project [m-blog](https://github.com/mike-hor/M-log), which _a blog based on GitHub pages by Vue.js 2 + Webpack 2_ . 
 
 ## License
 
