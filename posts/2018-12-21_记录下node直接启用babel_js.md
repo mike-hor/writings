@@ -28,8 +28,6 @@ npm install babel-plugin-syntax-object-rest-spread --save-dev
 #### 在项目入口文件（如app.js）引用下babel:
 
 ```
-require('babel-register')({
-    presets: ['es2015']
-});
+require("babel-register");
 ```
 
